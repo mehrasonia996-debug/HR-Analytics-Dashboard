@@ -97,7 +97,7 @@ Use filters and slicers to explore insights
 This project shows how HR data can be transformed into interactive dashboards for better understanding and decision-making. It highlights the importance of analytics in improving employee retention and organizational performance.
 
 📷 Screenshots
-https://github.com/mehrasonia996-debug/HR-Analytics-Dashboard/blob/main/Screenshot%202026-03-28%20134523.png
+https://github.com/mehrasonia996-debug/HR-Analytics-Dashboard/blob/main/Screenshot%202026-03-29%20170343.png
 
 
 
